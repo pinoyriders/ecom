@@ -1,5 +1,5 @@
 ---
-label: product
+label: products
 hide_body: true
 fields:
 - type: text
@@ -16,12 +16,10 @@ fields:
   config:
     required: false
   label: price
-  description: price$
-- name: pricebefore
+- name: priceBefore
   type: text
   config:
     required: false
-  description: old price in $
   label: pricebefore
 - name: shortdescription
   type: text
@@ -29,22 +27,30 @@ fields:
     required: false
   label: shortdescription
   description: short description
-- name: productid
+- name: productID
   type: text
   config:
     required: false
-  label: productid
+  label: productID
   description: product id
 - name: type
   type: text
   config:
     required: false
   label: type
-  description: products
+  default: products
 - name: images
-  type: file
+  type: field_group_list
+  fields:
+  - name: image
+    type: text
+    config:
+      required: false
+    label: image
   config:
-    maxSize: 250
+    min: 
+    max: 
+    labelField: 
   label: images
 pages:
 - exampleSite/content/products/some-other-product.md
