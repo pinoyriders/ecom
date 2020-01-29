@@ -44,15 +44,15 @@ weight = 4
 [params]
 author = "John Doe"
 copyright = "| Copyright &copy; 2020 [Affordable Ecom](https://shop.goldcoders.online) All Rights Reserved |"
-description = "This is meta description"
+description = "Affordable Ecommerce Site"
 email = "demo@email.com"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 googleAnalitycsID = "Your ID"
 home = "Home"
 location = "Zambales, Olongapo"
 logo = "images/ecom-logo.png"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
+mapLatitude = "14.8311931"
+mapLongitude = "120.2834272"
 mapMarker = "images/marker.png"
 mobile = "0124857985320"
 [params.contact]
