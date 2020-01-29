@@ -21,3 +21,5 @@ fields:
   config:
     required: false
   label: author
+pages:
+- exampleSite/content/blog/my-first-post-bitch.md
