@@ -49,8 +49,7 @@ sections:
   label: Home Page
 - type: document
   path: exampleSite/data/faq.yml
-  label: 'FAQ''s '
-  match: "**/*"
+  label: FAQ Lists
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
