@@ -46,7 +46,7 @@ sections:
   new_doc_ext: toml
 - type: document
   path: exampleSite/data/homepage.yml
-  label: Home Page
+  label: Home Page Config
 - type: document
   path: exampleSite/data/faq.yml
   label: FAQ Lists
