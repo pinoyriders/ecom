@@ -11,3 +11,38 @@ fields:
 - type: text
   name: description
   label: description
+- name: price
+  type: text
+  config:
+    required: false
+  label: price
+  description: price$
+- name: pricebefore
+  type: text
+  config:
+    required: false
+  description: old price in $
+  label: pricebefore
+- name: shortdescription
+  type: text
+  config:
+    required: false
+  label: shortdescription
+  description: short description
+- name: productid
+  type: text
+  config:
+    required: false
+  label: productid
+  description: product id
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+  description: products
+- name: images
+  type: file
+  config:
+    maxSize: 250
+  label: images
