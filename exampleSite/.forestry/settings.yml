@@ -48,6 +48,10 @@ sections:
   path: exampleSite/data/homepage.yml
   label: Home Page Config
 - type: document
+  path: exampleSite/data/contact.yml
+  label: Contact Info
+  match: "**/*"
+- type: document
   path: exampleSite/data/faq.yml
   label: FAQ Lists
 upload_dir: exampleSite/static/images
