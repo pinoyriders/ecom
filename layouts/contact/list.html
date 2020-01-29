@@ -13,17 +13,17 @@
         {{ end }}
 
         <ul class="list-unstyled">
-          <li class="mb-3"><a class="text-color" href="tel:{{ .Site.Params.mobile }}"><i
+          <li class="mb-3"><a class="text-color" href="tel:{{ .Site.Data.contact.mobile }}"><i
                 class="ti-mobile text-primary mr-2"></i>
              {{ .Site.Params.mobile }}</a></li>
-          <li class="mb-3"><a class="text-color" href="mailto:{{ .Site.Params.email }}"><i
-                class="ti-email text-primary mr-2"></i>{{ .Site.Params.email }}</a></li>
-          <li class="mb-3"><i class="ti-location-pin text-primary mr-2"></i>{{ .Site.Params.location }}
+          <li class="mb-3"><a class="text-color" href="mailto:{{ .Site.Data.contact.email }}"><i
+                class="ti-email text-primary mr-2"></i>{{ .Site.Data.contact.email }}</a></li>
+          <li class="mb-3"><i class="ti-location-pin text-primary mr-2"></i>{{ .Site.Data.contact.location }}
           </li>
         </ul>
       </div>
       <div class="col-lg-3 offset-lg-1 col-sm-6">
-        {{ with .Site.Data.contact.contact.opennigHour }}
+        {{ with .Site.Data.contact.contact.openHours }}
         <h3 class="mb-4">{{ .title | markdownify }}</h3>
         <ul class="list-unstyled">
           {{ range .dayTimeList }}
@@ -50,9 +50,9 @@
 {{ if .Site.Data.contact.map.enable }}
 <section class="section pt-0">
   <div class="container">
-    <div id="map_canvas" data-latitude="{{ with .Site.Params.mapLatitude }} {{ . }} {{ end }}"
-      data-longitude="{{ with .Site.Params.mapLongitude }} {{ . }} {{ end }}"
-      data-marker="{{ with .Site.Params.mapMarker }} {{ . | absURL }} {{ end }}" data-marker-name="{{ .Site.Title }}"></div>
+    <div id="map_canvas" data-latitude="{{ with .Site.Data.contact.map.lat }} {{ . }} {{ end }}"
+      data-longitude="{{ with .Site.Data.contact.map.long }} {{ . }} {{ end }}"
+      data-marker="{{ with .Site.Data.contact.map.marker }} {{ . | absURL }} {{ end }}" data-marker-name="{{ .Site.Title }}"></div>
   </div>
 </section>
 {{ end }}

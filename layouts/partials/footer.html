@@ -16,12 +16,12 @@
       <div class="col-md-4 col-sm-6">
         <h5 class="font-weight-medium mb-4">Connect With Us</h5>
         <ul class="list-unstyled mb-5">
-          <li class="mb-3"><a class="text-color" href="tel:{{ .Site.Params.mobile }}"><i
+          <li class="mb-3"><a class="text-color" href="tel:{{ .Site.Data.contact.mobile }}"><i
                 class="ti-mobile text-primary mr-2"></i>
               {{ .Site.Params.mobile }}</a></li>
-          <li class="mb-3"><a class="text-color" href="mailto:{{ .Site.Params.email }}"><i
-                class="ti-email text-primary mr-2"></i> {{ .Site.Params.email }}</a></li>
-          <li class="mb-3"><i class="ti-location-pin text-primary mr-2"></i> {{ .Site.Params.location }}
+          <li class="mb-3"><a class="text-color" href="mailto:{{ .Site.Data.contact.email }}"><i
+                class="ti-email text-primary mr-2"></i> {{ .Site.Data.contact.email }}</a></li>
+          <li class="mb-3"><i class="ti-location-pin text-primary mr-2"></i> {{ .Site.Data.contact.location }}
           </li>
         </ul>
         <!-- social icon -->
@@ -50,7 +50,7 @@
 </footer>
 
 {{ "<!-- Google Map API -->" | safeHTML }}
-<script src="{{ .Site.Params.gmapAPI | absURL }}"></script>
+<script src="{{ .Site.Data.contact.map.apikey | absURL }}"></script>
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
 <script src="{{ .link | absURL }}"></script>
@@ -58,10 +58,10 @@
 
 <!-- snipcart -->
 <script type="text/javascript" id="snipcart" src="https://cdn.snipcart.com/scripts/2.0/snipcart.js"
-  data-api-key="M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"></script>
+  data-api-key="{{ .Site.Params.snipcart.apikey }}"></script>
 <script>
-  Snipcart.execute('registerLocale', 'en', {
-    powered_by: "Themefisher"
+  Snipcart.execute('registerLocale', '{{ .Site.Params.snipcart.locale }}', {
+    powered_by: "{{ .Site.Params.snipcart.poweredby }}"
   });
 </script>
 

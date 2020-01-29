@@ -8,7 +8,7 @@ contact:
     # other information comes from "config.toml"
 
   # opennig hour
-  opennigHour:
+  openHours:
     title : "Opening Hours"
     dayTimeList:
       - dayTime : "Monday: 9:00 – 19:00"
@@ -22,9 +22,17 @@ contact:
 ####################### google map ########################
 map:
   enable: true
+  apikey: "https://maps.googleapis.com/maps/api/js?key=AIzaSyC1m1flw-9HTHBNO3JTetl-uhI6x2OKt60&libraries=places"
+  lat: "14.8311931"
+  long: "120.2834272"
+  marker: "images/marker.png"
 ###################### google form ########################
 form:
+    enable: true
     action: "https://docs.google.com/forms/u/0/d/e/1FAIpQLSdhJukQXx6yc4P5mUpYoNaFRhFogI5K8-WmmrwXH9ATJ4_nEQ/formResponse"
     email: "emailAddress"
     name: "entry.1854758470"
     message: "entry.77570555"
+email: "demo@gmail.com"
+location: "Zambales , Olongapo"
+mobile: "+639155609040"
