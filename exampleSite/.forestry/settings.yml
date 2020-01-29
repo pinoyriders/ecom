@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: exampleSite/data/contact.yml
+  label: Contact Info
+  match: "**/*"
 - type: directory
   path: exampleSite/data
   label: FAQs
