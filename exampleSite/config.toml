@@ -50,7 +50,7 @@ gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSp
 googleAnalitycsID = "Your ID"
 home = "Home"
 location = "Zambales, Olongapo"
-logo = "images/logo.png"
+logo = "images/ecom-logo.png"
 mapLatitude = "51.5223477"
 mapLongitude = "-0.1622023"
 mapMarker = "images/marker.png"
