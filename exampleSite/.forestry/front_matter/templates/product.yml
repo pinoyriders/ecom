@@ -52,5 +52,3 @@ fields:
     max: 
     labelField: 
   label: images
-pages:
-- exampleSite/content/products/some-other-product.md
