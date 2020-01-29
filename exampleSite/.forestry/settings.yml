@@ -4,12 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: heading
-  label: Sitewide Config
-- type: document
-  path: exampleSite/data/homepage.yml
-  label: Home Page
-  match: "**/*"
 - type: directory
   path: exampleSite/content
   label: Pages
@@ -40,12 +34,17 @@ sections:
   label: Faq
   create: all
   match: "**/*"
+- type: heading
+  label: Sitewide Config
 - type: directory
   path: exampleSite
   label: Configuration
   create: all
   match: "*.toml"
   new_doc_ext: toml
+- type: document
+  path: exampleSite/data/homepage.yml
+  label: Home Page
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
