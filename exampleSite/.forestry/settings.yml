@@ -5,6 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: exampleSite/data
+  label: FAQs
+  create: all
+  match: faq.yml
+  new_doc_ext: faq.yml
+- type: directory
   path: exampleSite/content
   label: Pages
   create: all
