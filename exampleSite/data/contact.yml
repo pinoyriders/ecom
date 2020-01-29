@@ -22,3 +22,9 @@ contact:
 ####################### google map ########################
 map:
   enable: true
+###################### google form ########################
+form:
+    action: "https://docs.google.com/forms/u/0/d/e/1FAIpQLSdhJukQXx6yc4P5mUpYoNaFRhFogI5K8-WmmrwXH9ATJ4_nEQ/formResponse"
+    email: "emailAddress"
+    name: "entry.1854758470"
+    message: "entry.77570555"
