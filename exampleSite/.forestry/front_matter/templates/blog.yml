@@ -21,3 +21,11 @@ fields:
   config:
     required: false
   label: author
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
