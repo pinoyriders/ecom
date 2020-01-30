@@ -22,19 +22,23 @@ sections:
   create: all
   match: "**/*"
 - type: heading
-  label: Sitewide Config
+  label: Site Configs
 - type: directory
   path: exampleSite
-  label: Configuration
+  label: Main
   create: all
   match: "*.toml"
   new_doc_ext: toml
 - type: document
   path: exampleSite/data/homepage.yml
-  label: Home Page Config
+  label: Home
 - type: document
   path: exampleSite/data/contact.yml
-  label: Contact Info
+  label: Contact
+- type: document
+  path: exampleSite/data/snipcart.yml
+  label: Snipcart
+  match: "**/*"
 - type: document
   path: exampleSite/data/faq.yml
   label: FAQ Lists
