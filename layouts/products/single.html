@@ -8,11 +8,15 @@
       <div class="col-lg-5 mb-4 mb-lg-0">
         <!-- product image slider -->
         <div class="product-slider">
-          {{ range .Params.Images }}
-          <div data-image="{{ .image | absURL }}">
-            <img class="img-fluid w-100" src="{{ .image | absURL }}" alt="product-img">
-          </div>
-          {{ end }}
+        {{ if isset .Params "images" }}
+        {{ if ( gt ( len .Params.images ) 0 ) }}
+        {{ range .Params.Images }}
+        <div data-image="{{ . | absURL }}">
+            <img class="img-fluid w-100" src="{{ . | absURL }}" alt="product-img">
+        </div>
+        {{ end }}
+        {{ end }}
+        {{ end }}
         </div>
       </div>
       <div class="col-lg-5 offset-lg-1">
@@ -28,7 +32,7 @@
         <h5>Short Description</h5>
         <p>{{ .Params.ShortDescription | markdownify }}</p>
         <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
-          data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
+          data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ . | absURL }}"
           {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}">
           Add to cart
         </button>
