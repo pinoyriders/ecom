@@ -36,3 +36,5 @@ fields:
   hidden: true
   label: type
   default: article
+pages:
+- exampleSite/content/blog/my-awesome-blog-post.md
