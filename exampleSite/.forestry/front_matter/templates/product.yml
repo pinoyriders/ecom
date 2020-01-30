@@ -2,6 +2,12 @@
 label: products
 hide_body: false
 fields:
+- name: productID
+  type: text
+  config:
+    required: false
+  label: productID
+  description: product id
 - type: text
   name: title
   label: title
@@ -11,6 +17,12 @@ fields:
 - type: text
   name: description
   label: description
+- name: shortdescription
+  type: text
+  config:
+    required: false
+  label: shortdescription
+  description: short description
 - name: price
   type: text
   config:
@@ -21,24 +33,13 @@ fields:
   config:
     required: false
   label: pricebefore
-- name: shortdescription
-  type: text
-  config:
-    required: false
-  label: shortdescription
-  description: short description
-- name: productID
-  type: text
-  config:
-    required: false
-  label: productID
-  description: product id
 - name: type
   type: text
   config:
     required: false
   label: type
   default: products
+  hidden: true
 - name: images
   type: field_group_list
   fields:
