@@ -1,7 +1,6 @@
 +++
 date = 2020-01-30T10:00:00Z
 description = "THis is product X description"
-draft = true
 images = []
 og_type = "og:product"
 price = "10$"
