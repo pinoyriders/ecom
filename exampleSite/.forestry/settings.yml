@@ -22,7 +22,7 @@ sections:
   create: all
   match: "**/*"
 - type: heading
-  label: Site Configs
+  label: Configurations
 - type: directory
   path: exampleSite
   label: Main
@@ -38,11 +38,9 @@ sections:
 - type: document
   path: exampleSite/data/snipcart.yml
   label: Snipcart
-  match: "**/*"
 - type: document
   path: exampleSite/data/rating.yml
   label: Ratings
-  match: "**/*"
 - type: document
   path: exampleSite/data/faq.yml
   label: FAQ Lists
