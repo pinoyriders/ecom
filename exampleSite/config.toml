@@ -42,7 +42,7 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-author = "John Doe"
+author = "Uriah Galang"
 copyright = "| Copyright &copy; 2020 [Affordable Ecom](https://shop.goldcoders.online) All Rights Reserved |"
 description = "Affordable Ecommerce Site"
 home = "Home"
