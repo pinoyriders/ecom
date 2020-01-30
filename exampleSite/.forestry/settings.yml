@@ -25,14 +25,7 @@ sections:
   label: Configurations
 - type: document
   path: exampleSite/config.toml
-  label: Config
-  match: "**/*"
-- type: directory
-  path: exampleSite
-  label: Main
-  create: all
-  match: "*.toml"
-  new_doc_ext: toml
+  label: Web
 - type: document
   path: exampleSite/data/homepage.yml
   label: Home
