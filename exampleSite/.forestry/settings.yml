@@ -17,6 +17,7 @@ sections:
   label: Blog
   create: all
   match: "**/*"
+  exclude: "**index**"
 - type: document
   path: exampleSite/data/faq.yml
   label: FAQ
