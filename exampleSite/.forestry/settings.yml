@@ -40,6 +40,10 @@ sections:
   label: Snipcart
   match: "**/*"
 - type: document
+  path: exampleSite/data/rating.yml
+  label: Ratings
+  match: "**/*"
+- type: document
   path: exampleSite/data/faq.yml
   label: FAQ Lists
 upload_dir: exampleSite/static/images
