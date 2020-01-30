@@ -40,7 +40,7 @@ sections:
   label: Contact
 - type: document
   path: exampleSite/data/snipcart.yml
-  label: Snipcart
+  label: Cart
 - type: document
   path: exampleSite/data/chat.yml
   label: Chat
