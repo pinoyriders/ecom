@@ -32,7 +32,6 @@ sections:
 - type: document
   path: exampleSite/data/analytics.yml
   label: Google Analytics
-  match: "**/*"
 - type: document
   path: exampleSite/data/homepage.yml
   label: Home
@@ -42,6 +41,10 @@ sections:
 - type: document
   path: exampleSite/data/snipcart.yml
   label: Snipcart
+- type: document
+  path: exampleSite/data/chat.yml
+  label: Chat
+  match: "**/*"
 - type: document
   path: exampleSite/data/rating.yml
   label: Ratings
