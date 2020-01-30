@@ -16,6 +16,9 @@ sections:
   label: Blog
   create: all
   match: "**/*"
+- type: document
+  path: exampleSite/data/faq.yml
+  label: FAQ
 - type: directory
   path: exampleSite/content/terms-conditions
   label: Terms conditions
@@ -38,9 +41,6 @@ sections:
 - type: document
   path: exampleSite/data/rating.yml
   label: Ratings
-- type: document
-  path: exampleSite/data/faq.yml
-  label: FAQ
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
