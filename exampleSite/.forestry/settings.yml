@@ -24,12 +24,6 @@ sections:
 - type: document
   path: exampleSite/content/terms-conditions/_index.md
   label: TOS
-  match: "**/*"
-- type: directory
-  path: exampleSite/content/terms-conditions
-  label: Terms conditions
-  create: documents
-  match: "**/*"
 - type: heading
   label: Configurations
 - type: document
