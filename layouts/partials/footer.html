@@ -58,10 +58,10 @@
 
 <!-- snipcart -->
 <script type="text/javascript" id="snipcart" src="https://cdn.snipcart.com/scripts/2.0/snipcart.js"
-  data-api-key="{{ .Site.Params.snipcart.apikey }}"></script>
+  data-api-key="{{ .Site.Data.snipcart.apikey }}"></script>
 <script>
-  Snipcart.execute('registerLocale', '{{ .Site.Params.snipcart.locale }}', {
-    powered_by: "{{ .Site.Params.snipcart.poweredby }}"
+  Snipcart.execute('registerLocale', '{{ .Site.Data.snipcart.locale }}', {
+    powered_by: "{{ .Site.Data.snipcart.poweredby }}"
   });
 </script>
 
@@ -86,7 +86,7 @@
 </script>
 
 <!-- product rating -->
-{{ if .Site.Params.rating.enable }}
+{{ if .Site.Data.rating.enable }}
 <script type="text/javascript">
   (function (d, t, e, m) {
 
@@ -94,8 +94,8 @@
     window.RW_Async_Init = function () {
 
       RW.init({
-        huid: "{{ .Site.Params.rating.websiteID }}",
-        uid: "{{ .Site.Params.rating.publicKey }}",
+        huid: "{{ .Site.Data.rating.huid }}",
+        uid: "{{ .Site.Data.rating.uid }}",
         source: "website",
         options: {
           "size": "medium",

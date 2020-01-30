@@ -65,14 +65,6 @@ link = "plugins/google-map/gmap.js"
 [params.preloader]
 enable = true
 preloader = ""
-[params.rating]
-enable = true
-publicKey = "ffc5ae4368e79c7fb3038908e56b93c8"
-websiteID = "451186"
-[params.snipcart]
-apikey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
-locale = "en"
-poweredby = "goldcoders"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
