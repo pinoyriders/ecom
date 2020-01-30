@@ -64,3 +64,5 @@ fields:
   type: image_gallery
   config: {}
   label: uploads
+pages:
+- exampleSite/content/products/product-x.md
