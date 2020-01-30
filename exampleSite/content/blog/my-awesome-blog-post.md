@@ -3,7 +3,6 @@ author = "Uriah Galang"
 categories = []
 date = 2020-01-29T16:00:00Z
 description = "Get Started Developing Your New Bright Ideas."
-draft = true
 image = "images/products/product-2.png"
 tags = ["test", " example"]
 title = "My awesome blog post"
