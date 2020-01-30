@@ -45,7 +45,6 @@ weight = 4
 author = "John Doe"
 copyright = "| Copyright &copy; 2020 [Affordable Ecom](https://shop.goldcoders.online) All Rights Reserved |"
 description = "Affordable Ecommerce Site"
-googleAnalitycsID = "Your ID"
 home = "Home"
 logo = "images/ecom-logo.png"
 [[params.plugins.css]]
