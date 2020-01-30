@@ -24,7 +24,7 @@ sections:
 - type: directory
   path: exampleSite/content/terms-conditions
   label: Terms conditions
-  create: all
+  create: documents
   match: "**/*"
 - type: heading
   label: Configurations
