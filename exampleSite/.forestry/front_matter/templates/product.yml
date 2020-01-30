@@ -52,3 +52,22 @@ fields:
     max: 
     labelField: 
   label: images
+- name: og
+  type: field_group
+  config: {}
+  fields:
+  - name: type
+    type: text
+    config:
+      required: false
+    label: type
+    hidden: true
+    default: og:product
+  - name: image
+    type: text
+    config:
+      required: true
+    hidden: false
+    label: image
+  description: Facebook Meta
+  label: fb meta
