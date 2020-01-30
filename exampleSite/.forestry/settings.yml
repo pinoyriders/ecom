@@ -21,6 +21,10 @@ sections:
 - type: document
   path: exampleSite/data/faq.yml
   label: FAQ
+- type: document
+  path: exampleSite/content/terms-conditions/_index.md
+  label: TOS
+  match: "**/*"
 - type: directory
   path: exampleSite/content/terms-conditions
   label: Terms conditions
