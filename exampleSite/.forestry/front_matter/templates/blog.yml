@@ -29,3 +29,10 @@ fields:
   type: tag_list
   default: []
   label: categories
+- name: type
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: type
+  default: article
