@@ -48,10 +48,6 @@ description = "Affordable Ecommerce Site"
 googleAnalitycsID = "Your ID"
 home = "Home"
 logo = "images/ecom-logo.png"
-[params.snipcart]
-apikey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
-poweredby = "goldcoders"
-locale= "en"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -71,8 +67,12 @@ enable = true
 preloader = ""
 [params.rating]
 enable = true
-publicKey = "811cf0927332bf51f2e12f84608594ac"
-websiteID = "444334"
+publicKey = "ffc5ae4368e79c7fb3038908e56b93c8"
+websiteID = "451186"
+[params.snipcart]
+apikey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
+locale = "en"
+poweredby = "goldcoders"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
