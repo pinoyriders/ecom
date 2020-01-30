@@ -23,6 +23,10 @@ sections:
   match: "**/*"
 - type: heading
   label: Configurations
+- type: document
+  path: exampleSite/config.toml
+  label: Config
+  match: "**/*"
 - type: directory
   path: exampleSite
   label: Main
