@@ -5,7 +5,8 @@ draft = true
 author = "Uriah Galang"
 tags = []
 categories = []
-description = "this is a meta description"
-image = "images/blog/post-1.jpg"
-og_type="article"
+description = "Add Your Post Descrition"
+image = "images/blog/{{ replace .Name "-" " " | urlize }}.jpg"
+og_type = "article"
+slug = "{{ replace .Name "-" " " | urlize }}"
 +++
