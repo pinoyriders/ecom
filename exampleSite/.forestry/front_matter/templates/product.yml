@@ -40,6 +40,7 @@ fields:
   label: type
   default: products
   hidden: true
+  description: This is Needed To Access Products
 - name: og_type
   type: text
   config:
@@ -47,6 +48,7 @@ fields:
   label: Og Type
   hidden: true
   default: og:product
+  description: This Set Up Facebook OG Type
 - name: images
   type: image_gallery
   config: {}
