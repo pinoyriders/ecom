@@ -1,6 +1,6 @@
 baseURL = "https://shop.goldcoders.online"
 disqusShortname = "goldcoders"
-languageCode = "en"
+languageCode = "en-US"
 paginate = 10
 summaryLength = "20"
 theme = "hargo"
