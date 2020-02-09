@@ -1,7 +1,6 @@
 +++
 date = 2020-02-09T16:00:00Z
 description = "Combo A - Shampo , Cream, Lotion, Facial Wash"
-draft = true
 images = ["/images/products/product-4.png", "/images/products/product-5.png", "/images/cta.png", "/images/advantage.png"]
 og_type = "og:product"
 price = "5000"
