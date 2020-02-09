@@ -40,19 +40,6 @@ fields:
   label: type
   default: products
   hidden: true
-- name: images
-  type: field_group_list
-  fields:
-  - name: image
-    type: text
-    config:
-      required: false
-    label: image
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: images
 - name: og_type
   type: text
   config:
@@ -60,7 +47,7 @@ fields:
   label: Og Type
   hidden: true
   default: og:product
-- name: uploads
+- name: images
   type: image_gallery
   config: {}
-  label: uploads
+  label: Images
