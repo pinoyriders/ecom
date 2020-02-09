@@ -2,15 +2,15 @@
 <header class="sticky-top navigation">
   <div class="container">
     <!-- navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light">
+    <nav class="navbar navbar-expand-lg navbar-light" x-data="{ navbarOpen: false }">
       <a class="navbar-brand" href="{{ .Site.BaseURL }}"><img class="img-fluid" src="{{ .Site.Params.logo | absURL }}"
           alt="{{ .Site.Title }}"></a>
-      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+      <button class="navbar-toggler border-0" type="button" @click="navbarOpen = true">
         <i class="ti-menu"></i>
       </button>
 
-      <div class="collapse navbar-collapse text-center" id="navigation">
-        <ul class="navbar-nav mx-auto">
+      <div class="navbar-collapse text-center" :class="{'collapse': navbarOpen === false}">
+        <ul class="navbar-nav mx-auto" x-show="navbarOpen === true" @click.away="navbarOpen = false">
           <li class="nav-item">
             <a class="nav-link" href="{{ .Site.BaseURL }}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a>
           </li>
