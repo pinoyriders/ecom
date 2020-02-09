@@ -11,6 +11,9 @@ productID = "2"
 price = "2100"
 priceBefore = "2500"
 images = ["/images/products/product-2.png", "/images/products/product-1.png", "/images/products/product-3.png", "/images/products/product-4.png"]
+[prices]
+    php = "2100"
+    usd = "42"
 +++
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea

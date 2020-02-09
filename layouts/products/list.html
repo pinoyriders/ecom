@@ -20,7 +20,7 @@
             </div>
             <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
               data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ . | absURL }}"
-              {{ end }} data-item-price='{"php": 999.00, "usd": 40.00}' data-item-url="{{ .Permalink }}" data-item-description="{{ .Params.ShortDescription }}">
+              {{ end }} data-item-price="{{ .Params.Prices.php }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Params.ShortDescription }}">
               Add to cart
             </button>
           </div>
