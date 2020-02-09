@@ -26,8 +26,8 @@
         <div class="rw-ui-container"></div>
         {{ end }}
         <div class="my-4">
-          <span class="lead text-primary font-weight-medium">{{ .Params.Price }}</span>
-          <s>{{ .Params.PriceBefore }}</s>
+          <span class="lead text-primary font-weight-medium">{{.Site.Data.snipcart.symbol}}{{ .Params.Price }}</span>
+          <s>{{.Site.Data.snipcart.symbol}}{{ .Params.PriceBefore }}</s>
         </div>
         <h5>Short Description</h5>
         <p>{{ .Params.ShortDescription | markdownify }}</p>
