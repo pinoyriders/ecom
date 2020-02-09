@@ -8,8 +8,8 @@ featured = true
 type = "products"
 og_type = "og:product"
 productID = "9"
-price = "20.00"
-priceBefore = "25.00"
+price = "15000"
+priceBefore = "20000"
 images = ["/images/products/product-1.png", "/images/products/product-2.png", "/images/products/product-3.png", "/images/products/product-4.png"]
 +++
 
