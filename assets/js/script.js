@@ -34,6 +34,10 @@
     $("#video2").attr('src', $videoSrc);
   })
 
+    $('#currency').change(function () {
+        Snipcart.api.setCurrency($(this).val());
+    });
+
 
   // testimonial slider
   $('.testimonial-slider').slick({
