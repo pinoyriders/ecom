@@ -35,4 +35,11 @@ fields:
     required: false
   hidden: true
   label: type
+  default: blogs
+- name: og_type
+  type: text
+  config:
+    required: false
+  label: Og Type
+  description: This Set Up Facebook OG Type
   default: article
