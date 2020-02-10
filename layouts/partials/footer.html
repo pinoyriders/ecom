@@ -36,7 +36,7 @@
         <form action="{{ .Site.Data.contact.form.action }}" method="POST">
           <input type="text" class="form-control mb-2" name="{{ .Site.Data.contact.form.name }}" placeholder="Your Name">
           <input type="email" class="form-control mb-2" name="{{ .Site.Data.contact.form.email }}" placeholder="Your Email">
-          <textarea name="{{ .Site.Data.contact.form.message }}" id="message" class="form-control mb-2" placeholder="Your Message"></textarea>
+          <textarea name="{{ .Site.Data.contact.form.message }}" class="form-control mb-2" placeholder="Your Message"></textarea>
           <button type="submit" value="send" class="btn btn-block btn-outline-primary rounded">Send Now</button>
         </form>
       </div>
