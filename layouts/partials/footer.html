@@ -50,7 +50,7 @@
 </footer>
 
 {{ "<!-- Google Map API -->" | safeHTML }}
-<script src="{{ .Site.Data.contact.map.apikey | absURL }}"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key={{ .Site.Data.contact.map.apikey }}&libraries=places"></script>
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
 <script src="{{ .link | absURL }}"></script>
