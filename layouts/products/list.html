@@ -18,11 +18,13 @@
               <span class="lead text-primary">{{.Site.Data.snipcart.symbol}}{{ .Params.Price }}</span>
               <s>{{.Site.Data.snipcart.symbol}}{{ .Params.PriceBefore }}</s>
             </div>
+            {{ if .Site.Data.snipcart.enable }}
             <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
               data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ . | absURL }}"
               {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Params.ShortDescription }}">
               Add to cart
             </button>
+            {{ end }}
           </div>
         </div>
       </div>
