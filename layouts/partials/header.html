@@ -33,15 +33,16 @@
                 </li>
                 {{ end }}
                 {{ end }}
+                {{ if .Site.Data.snipcart.enable }} 
                 <li class="nav-item">
-                    <a class="nav-link snipcart-customer-signin">Orders</a>
+                    <a class="nav-link snipcart-customer-signin">My Orders</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link snipcart-customer-signin" href="/admin">Admin</a>
-                </li>
+                {{ end }}
             </ul>
         </div>
+      {{ if .Site.Data.snipcart.enable }}
       <button class="cart snipcart-checkout"><i class="ti-shopping-cart"></i><span class="badge badge-primary snipcart-items-count"></span></button>
+      {{ end }}
     </nav>
   </div>
 </header>

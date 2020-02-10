@@ -56,9 +56,10 @@
 <script src="{{ .link | absURL }}"></script>
 {{ end }}
 
+{{ if .Site.Data.snipcart.enable }}
 <div hidden id="snipcart" data-api-key="{{ .Site.Data.snipcart.apikey }}"></div>
 <script src="https://cdn.snipcart.com/themes/v3.0.7/default/snipcart.js"></script>
-
+{{ end }}
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>

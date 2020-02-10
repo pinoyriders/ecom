@@ -25,6 +25,10 @@ weight = 4
 URL = "contact"
 name = "Contact"
 weight = 5
+[[menu.footer]]
+URL = "admin"
+name = "Back Office"
+weight = 6
 [[menu.main]]
 URL = "products"
 name = "Products"
@@ -41,6 +45,10 @@ weight = 3
 URL = "contact"
 name = "Contact"
 weight = 4
+[[menu.main]]
+URL = "admin"
+name = "Back Office"
+weight = 5
 [params]
 author = "Uriah Galang"
 copyright = "| Copyright &copy; 2020 [Affordable Ecom](https://shop.goldcoders.online) All Rights Reserved |"
