@@ -48,9 +48,10 @@
     </div>
   </div>
 </footer>
-
+{{ if .Site.Data.contact.map.enable }}
 {{ "<!-- Google Map API -->" | safeHTML }}
 <script src="https://maps.googleapis.com/maps/api/js?key={{ .Site.Data.contact.map.apikey }}&libraries=places"></script>
+{{ end }}
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
 <script src="{{ .link | absURL }}"></script>
