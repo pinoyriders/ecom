@@ -2,42 +2,42 @@
 <header class="sticky-top navigation">
   <div class="container">
     <!-- navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light" x-data="{ navbarOpen: false }">
-      <a class="navbar-brand" href="{{ .Site.BaseURL }}"><img class="img-fluid" src="{{ .Site.Params.logo | absURL }}"
-          alt="{{ .Site.Title }}"></a>
-      <button class="navbar-toggler border-0" type="button" @click="navbarOpen = true">
-        <i class="ti-menu"></i>
-      </button>
-
-      <div class="navbar-collapse text-center" :class="{'collapse': navbarOpen === false}">
-        <ul class="navbar-nav mx-auto" x-show="navbarOpen === true" @click.away="navbarOpen = false">
-          <li class="nav-item">
-            <a class="nav-link" href="{{ .Site.BaseURL }}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a>
-          </li>
-          {{ range .Site.Menus.main }}
-          {{ if .HasChildren }}
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-              aria-expanded="false">
-              {{ .Name }}
-            </a>
-            <div class="dropdown-menu">
-              {{ range .Children }}
-              <a class="dropdown-item" href="{{ .URL | absURL }}">{{ .Name }}</a>
-              {{ end }}
-            </div>
-          </li>
-          {{ else }}
-          <li class="nav-item">
-            <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
-          </li>
-          {{ end }}
-          {{ end }}
-        </ul>
-      </div>
-      <a href="/blog">Blog</a>
-      <a href="/products">Products</a>
-      <button class="snipcart-customer-signin cart">My account</button>
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="{{ .Site.BaseURL }}"><img class="img-fluid" src="{{ .Site.Params.logo | absURL }}"
+                alt="{{ .Site.Title }}"></a>
+        <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+            <i class="ti-menu"></i>
+        </button>
+    
+        <div class="collapse navbar-collapse text-center" id="navigation">
+            <ul class="navbar-nav mx-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ .Site.BaseURL }}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a>
+                </li>
+                {{ range .Site.Menus.main }}
+                {{ if .HasChildren }}
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                        {{ .Name }}
+                    </a>
+                    <div class="dropdown-menu">
+                        {{ range .Children }}
+                        <a class="dropdown-item" href="{{ .URL | absURL }}">{{ .Name }}</a>
+                        {{ end }}
+                    </div>
+                </li>
+                {{ else }}
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
+                </li>
+                {{ end }}
+                {{ end }}
+                <li class="nav-item">
+                    <a class="nav-link snipcart-customer-signin">My Account</a>
+                </li>
+            </ul>
+        </div>
       <button class="cart snipcart-checkout"><i class="ti-shopping-cart"></i><span class="badge badge-primary snipcart-items-count"></span></button>
     </nav>
   </div>
