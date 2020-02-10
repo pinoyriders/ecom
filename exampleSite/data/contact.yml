@@ -17,7 +17,7 @@ contact:
     - dayTime: 'sunday: 9:00 – 19:00'
 map:
   enable: true
-  apikey: https://maps.googleapis.com/maps/api/js?key=AIzaSyC1m1flw-9HTHBNO3JTetl-uhI6x2OKt60&libraries=places
+  apikey: https://maps.googleapis.com/maps/api/js?key=AIzaSyBKkHrry0pvzdV2uRUezWqjgST5W-S93Xw&libraries=places
   lat: "14.8311931"
   long: "120.2834272"
   marker: images/marker.png
