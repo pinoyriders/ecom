@@ -3,7 +3,6 @@ author = "admin"
 categories = []
 date = 2020-02-25T16:00:00Z
 description = "og:how to take care of our skin"
-draft = true
 image = ""
 og_type = "article"
 tags = []
