@@ -1,15 +1,14 @@
 +++
-title = "Lower Back Pain? Self-Administered Acupressure Could Help"
-date = 2020-01-29T16:00:00Z
 author = "Uriah Galang"
-draft = false
-tags = ["test", " example"]
 categories = []
+date = 2020-01-29T16:00:00Z
 description = "this is a meta description"
-image = "images/blog/post-1.jpg"
+image = ""
 og_type = "article"
-+++
+tags = ["test", " example"]
+title = "Lower Back Pain? Self-Administered Acupressure Could Help"
 
++++
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
 
 aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
