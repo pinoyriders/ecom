@@ -3,7 +3,6 @@ author = "Uriah Galang"
 categories = []
 date = 2020-02-25T16:00:00Z
 description = "this is a meta description"
-draft = true
 image = "/images/best ways to take care of your skin.png"
 og_type = "article"
 tags = ["test"]
