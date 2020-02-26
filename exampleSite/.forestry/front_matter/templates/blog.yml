@@ -43,3 +43,5 @@ fields:
   config:
     maxSize: 250
   label: image
+pages:
+- exampleSite/content/blog/lower-back-pain-self-administered-acupressure-could-help-1.md
