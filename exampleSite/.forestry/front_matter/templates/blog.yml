@@ -43,5 +43,3 @@ fields:
   label: Og Type
   description: This Set Up Facebook OG Type
   default: article
-pages:
-- exampleSite/content/blog/how-to-take-care-of-our-skin.md
