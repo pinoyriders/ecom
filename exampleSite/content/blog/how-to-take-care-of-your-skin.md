@@ -10,9 +10,9 @@ title = "How To Take Care of Your Skin"
 type = "blogs"
 
 +++
-#### Some of the best things you can do for your skin don't require gimmicky routines or fancy products. Rather, thoughtfulness, consistency, and TLC are three simple tools you need to create a foundation of healthy, beautiful skin. From exercising regularly to eating a balanced diet to being conscious of the products you use, we give you 10 simple ways to love your skin.
+### Some of the best things you can do for your skin don't require gimmicky routines or fancy products. Rather, thoughtfulness, consistency, and TLC are three simple tools you need to create a foundation of healthy, beautiful skin. From exercising regularly to eating a balanced diet to being conscious of the products you use, we give you 10 simple ways to love your skin.
 
-###### **The 10 Best Ways To Take Care Of Your Skin**
+##### The 10 Best Ways To Take Care Of Your Skin
 
  1. Cleanse Your Face Twice a Day. Using a gentle, non-toxic cleanser, like our Taba Facial Cleanser, wash your face morning and night (and after bouts of excess sweating) to ensure that skin and pores are free of dirt, grime, and bacteria. Failure to do so can increase pore size, make skin oilier, and even cause acne.
  2. Get Plenty of Good Sleep.  Getting good, restful sleep is essential for proper skin cell and tissue rejuvenation. Achieve restful sleep by clearing your mind as much as possible before your head hits the pillow. Power down cellphones, TV, and other stimulating activities about thirty minutes before your intended bedtime, and read a “for fun” book or listen to music instead.
