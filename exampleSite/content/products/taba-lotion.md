@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2020-03-29T16:00:00Z
 description = "e-bike"
 images = ["/images/received_836817013503602.png", "/images/products/product-1.png"]
 og_type = "og:product"
