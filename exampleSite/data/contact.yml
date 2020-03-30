@@ -2,9 +2,8 @@
 contact:
   enable: true
   office:
-    title: Central Office
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna
+    title: Saige shop, Taguig city office
+    content: 'Sales Executive: Yuri 09451232599 (Globe)'
   openHours:
     title: Opening Hours
     dayTimeList:
