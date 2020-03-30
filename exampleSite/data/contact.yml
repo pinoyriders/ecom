@@ -2,8 +2,10 @@
 contact:
   enable: true
   office:
-    title: Saige shop, Taguig city office
-    content: 'Sales Executive: Yuri 09451232599 (Globe)'
+    title: Taguig city office
+    content: |-
+      Sales Executive: Yuri 09451232599 (Globe)
+      Sales agent: Darren 09564006212 (Globe)
   openHours:
     title: Opening Hours
     dayTimeList:
