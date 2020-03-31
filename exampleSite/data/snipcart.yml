@@ -1,5 +1,6 @@
-apikey: "NTEwZDZkNWMtOGIyNS00M2MwLTgxNWYtM2ExZTQ4ZGVhNTNjNjM3MTY0ODEyNjIwNDA0MDY5"
+---
+apikey: MTBlNmVmZDctMjFkYy00ZTJiLThlNmUtNmZhZWZiM2VmZTgxNjM3MjEyMzAxNDczMzUxODA4
 enable: true
-locale: "en-US"
-currency: "php"
+locale: en-US
+currency: php
 symbol: "₱"
