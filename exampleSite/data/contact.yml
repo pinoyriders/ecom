@@ -3,9 +3,8 @@ contact:
   enable: true
   office:
     title: Taguig city office
-    content: |-
-      Sales Executive: Yuri 09451232599 (Globe)
-      Sales agent: Darren 09564006212 (Globe)
+    content: 'Sales Executive: Yuri 09451232599 (Globe)Sales agent: Darren 09564006212
+      (Globe)'
   openHours:
     title: Opening Hours
     dayTimeList:
@@ -28,6 +27,6 @@ form:
   email: emailAddress
   name: entry.1854758470
   message: entry.77570555
-email: goldcodersclub@gmail.com
-location: Zambales , Olongapo
-mobile: "+639155609040"
+email: pinoyebikeriders@gmail.com
+location: Taguig City
+mobile: '09564006212'
