@@ -23,7 +23,7 @@ map:
   marker: images/marker.png
 form:
   enable: true
-  action: https://docs.google.com/forms/u/0/d/e/1FAIpQLSdhJukQXx6yc4P5mUpYoNaFRhFogI5K8-WmmrwXH9ATJ4_nEQ/formResponse
+  action: https://docs.google.com/forms/u/0/d/e/1FAIpQLSd27wHrHxSKt37_mqMJ0-xDp_fX3CuKoU23-Qlgez7mlEqaww/formResponse
   email: emailAddress
   name: entry.1854758470
   message: entry.77570555
