@@ -1,10 +1,10 @@
-baseURL = "https://shop.goldcoders.online"
-disqusShortname = "goldcoders"
+baseURL = "https://pinoyriders.com"
+disqusShortname = "pinoyriders"
 languageCode = "en-us"
 paginate = 10
 summaryLength = "20"
 theme = "hargo"
-title = "ECOM | Affordable E-commerce Site"
+title = "Pinoy Riders | Official Saige e-bike Seller in The Philippines"
 [[menu.footer]]
 URL = "admin"
 name = "Back Office"
