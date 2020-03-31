@@ -17,7 +17,7 @@ contact:
     - dayTime: 'sunday: 9:00 – 19:00'
 map:
   enable: true
-  apikey: AIzaSyBKkHrry0pvzdV2uRUezWqjgST5W-S93Xw
+  apikey: AIzaSyDphIn0Dx-MV_8ObPgqAElXqJ4R6iJpPO4
   lat: "14.8311931"
   long: "120.2834272"
   marker: images/marker.png
