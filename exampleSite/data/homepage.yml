@@ -46,12 +46,11 @@ material:
     content: ''
 advantage:
   enable: true
-  title: Advantages Of Using <br> Our Product
-  subtitle: Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr,
-    sed diam nonumya eirmod
+  title: Advantages in <br> SAIGE E-bike
+  subtitle: ''
   image: images/111.png
   advantageList:
-  - listItem: Extremely lightweight
+  - listItem: Better quality
   - listItem: Excellent breathability
   - listItem: Can increase Cell activation
   - listItem: Glowing Skin In 7 Days
