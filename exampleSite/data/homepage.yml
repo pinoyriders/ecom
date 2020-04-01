@@ -13,10 +13,10 @@ banner:
     videoURL: https://www.youtube.com/embed/wf4F2-9UXUo
 about:
   enable: true
-  title: About Our Product
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-    At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+  title: About Saige Ebike shop
+  content: SAIGE E-bike provides quality electronic bikes and trusted services for
+    customers that aim to be part of future transportation, which promote sustainable
+    energy and nature friendly to our mother earth to improve air quality.
   image: images/about.png
 cta:
   enable: true
