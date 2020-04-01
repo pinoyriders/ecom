@@ -6,7 +6,7 @@ banner:
   image: images/banner.png
   button:
     enable: true
-    label: All Products
+    label: Click here
     link: products
   video:
     enable: true
