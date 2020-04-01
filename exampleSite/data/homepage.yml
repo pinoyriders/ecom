@@ -42,7 +42,7 @@ material:
     image: images/55.jpg
     content: ''
   - title: ''
-    image: images/44.jpg
+    image: images/345.jpg
     content: ''
 advantage:
   enable: true
