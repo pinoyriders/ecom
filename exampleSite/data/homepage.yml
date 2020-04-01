@@ -22,7 +22,7 @@ cta:
   enable: true
   title: Buy now to avail free Canopy, Rain Shield and Roof
   content: Available for limited time only. Grab one while you still can!
-  image: images/320.jpg
+  image: images/suck.png
   overlayImage: images/cta-overlay.png
   button:
     label: All Products
