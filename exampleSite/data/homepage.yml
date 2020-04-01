@@ -58,10 +58,10 @@ advantage:
   - listItem: Offer delivery
 video:
   enable: true
-  title: Experience the smile of Pinoy E-bike riders
-  content: 'Ride with your family anytime with no worries '
+  title: Experience the Smile of Pinoy Ebike riders
+  content: Ride with your family with no worries anytime.
   videoThumb: images/png.jpg
-  videoURL: https://www.youtube.com/embed/wf4F2-9UXUo
+  videoURL: https://youtu.be/hT_Ber1G1Wc
 products:
   enable: true
   title: Featured Products
