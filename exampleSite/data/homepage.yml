@@ -35,10 +35,9 @@ material:
   - title: ''
     image: images/1.jpg
     content: ''
-  - title: Aloe Vera
-    image: images/material/material-2.png
-    content: Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy
-      eirmod tem
+  - title: ''
+    image: images/33.jpg
+    content: ''
   - title: Turmeric
     image: images/material/material-3.png
     content: Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy
