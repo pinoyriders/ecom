@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: Click here
-    link: E-bikes
+    link: products
   video:
     enable: true
     videoURL: https://www.youtube.com/embed/wf4F2-9UXUo
