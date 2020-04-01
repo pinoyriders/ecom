@@ -58,24 +58,21 @@ advantage:
   - listItem: Offer delivery
 video:
   enable: true
-  title: How To Use This Product?
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-    At vero eos et accusam et.
-  videoThumb: images/video-thumb.jpg
+  title: Experience the smile of E-bike riders
+  content: 'Ride with your family anytime with no worries '
+  videoThumb: images/png.jpg
   videoURL: https://www.youtube.com/embed/wf4F2-9UXUo
 products:
   enable: true
   title: Featured Products
 testimonial:
   enable: true
-  title: What People Are Saying <br> About Our Product
+  title: What People Are Saying <br> About Saige E-bike
   testimonialItem:
-  - name: Angelo Perara
+  - name: Alex Rafer Balbin
     image: images/clients/client-1.jpg
-    designation: CEO, Dialogue Broad Band
-    content: Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br>
-      nonumy eirmod tempor
+    designation: Instructor and Academic staff of DCLC
+    content: It was safe and a good experience having fun with my riding Saige ebike
     rating: five
   - name: Riya Ventila
     image: images/clients/client-2.jpg
