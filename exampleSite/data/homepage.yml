@@ -17,13 +17,13 @@ about:
   content: SAIGE E-bike provides quality electronic bikes and trusted services for
     customers that aim to be part of future transportation, which promote sustainable
     energy and nature friendly to our mother earth to improve air quality.
-  image: images/jpg.jpg
+  image: images/123.jpg
 cta:
   enable: true
   title: Buy now to avail free Canopy, Rain Shield and Roof
   content: Available for limited time only. Grab one while you still can!
   image: images/123.jpg
-  overlayImage: ''
+  overlayImage: images/cta-overlay.png
   button:
     label: All Products
     link: products
@@ -34,19 +34,19 @@ material:
     eirmod tempor invidunt ut labore et dol.
   materialItem:
   - title: Matcha Seeds
-    image: ''
+    image: images/material/material-1.png
     content: Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy
       eirmod tem
   - title: Aloe Vera
-    image: ''
+    image: images/material/material-2.png
     content: Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy
       eirmod tem
   - title: Turmeric
-    image: ''
+    image: images/material/material-3.png
     content: Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy
       eirmod tem
   - title: Tulshi leaf
-    image: ''
+    image: images/material/material-4.png
     content: Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy
       eirmod tem
 advantage:
