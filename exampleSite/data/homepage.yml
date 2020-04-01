@@ -46,8 +46,8 @@ material:
     content: ''
 advantage:
   enable: true
-  title: Advantages in <br> SAIGE E-bike
-  subtitle: ''
+  title: Advantages of <br> our product
+  subtitle: Enjoy the ride you've waiting for, here in SAIGE E-bike
   image: images/111.png
   advantageList:
   - listItem: Better quality
