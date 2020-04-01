@@ -39,12 +39,11 @@ material:
     image: images/33.jpg
     content: ''
   - title: ''
-    image: images/44.jpg
+    image: images/22.jpg
     content: ''
-  - title: Tulshi leaf
+  - title: ''
     image: images/material/material-4.png
-    content: Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy
-      eirmod tem
+    content: ''
 advantage:
   enable: true
   title: Advantages Of Using <br> Our Product
