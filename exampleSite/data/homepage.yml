@@ -34,7 +34,7 @@ material:
     eirmod tempor invidunt ut labore et dol.
   materialItem:
   - title: Matcha Seeds
-    image: images/material/material-1.png
+    image: ''
     content: Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy
       eirmod tem
   - title: Aloe Vera
