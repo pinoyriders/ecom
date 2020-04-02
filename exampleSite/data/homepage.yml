@@ -10,7 +10,7 @@ banner:
     link: products
   video:
     enable: true
-    videoURL: https://www.youtube.com/embed/SFiUphi8p-w
+    videoURL: https://youtu.be/SFiUphi8p-w
 about:
   enable: true
   title: About Saige Ebike shop
@@ -61,7 +61,7 @@ video:
   title: Experience the Smile of Pinoy Ebike riders
   content: Ride with your family with no worries anytime.
   videoThumb: images/png.jpg
-  videoURL: https://www.youtube.com/embed/SFiUphi8p-w
+  videoURL: https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fembed%2FSFiUphi8p-w%3Ffbclid%3DIwAR3RptvLAjE-DVWMaLg7udlXdpBcYNUA0u5oeTCYo-b5_h5gQGamgOAgavw&h=AT2paz3PvNsDkaldWcYATigO68PPzqTnQwSmD2mIxxId3rBHtBwhmxxtdzpy-gGzv7htFKT43g840vR962t4yDffyPrvapqElmxaKbLw6eZ09zzxZysW3_g_wzwXKqKq0tw9Ag
 products:
   enable: true
   title: Featured Products
