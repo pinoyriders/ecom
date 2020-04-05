@@ -1,12 +1,12 @@
 +++
-author = "Uriah Galang"
+author = "Darren M. Balbin"
 categories = []
-date = 2020-02-25T16:00:00Z
+date = 2020-04-05T03:30:00Z
 description = "this is a meta description"
-image = "/images/blog/post-1.jpg"
+image = "/images/89696528_509597673283716_4244278783462342656_n.jpg"
 og_type = "article"
 tags = ["test"]
-title = "Lower Back Pain? Self-Administered Acupressure Could Help"
+title = "Mga simpleng paraan sa pag aalaga ng E-bike battery "
 type = "blogs"
 
 +++
