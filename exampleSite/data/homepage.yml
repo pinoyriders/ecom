@@ -41,8 +41,8 @@ material:
   - title: Scoorge
     image: images/44444.jpg
     content: ''
-  - title: ''
-    image: images/345.jpg
+  - title: S2
+    image: images/4444.png
     content: ''
 advantage:
   enable: true
