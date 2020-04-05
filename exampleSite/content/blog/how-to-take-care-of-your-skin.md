@@ -2,7 +2,7 @@
 author = "Alabang bulletin"
 categories = []
 date = 2020-04-05T04:32:00Z
-description = "skin care"
+description = "E-bike regulation"
 image = "/images/lto-building.jpg"
 og_type = "article"
 tags = []
