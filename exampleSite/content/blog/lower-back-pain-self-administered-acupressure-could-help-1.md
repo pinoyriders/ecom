@@ -10,20 +10,70 @@ title = "Lower Back Pain? Self-Administered Acupressure Could Help"
 type = "blogs"
 
 +++
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+Ang karaniwang nasisira sa parte ng E-bike ay ang kanyang baterya
 
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+sapagkat sensetive ito at may tamang paggamit kaya naman may ilang mga tips para maiwasang masira o mas magtagal pa ang Life span ng ating baterya sa E-bike.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+👉 Tips how to avoid bloated battery  
+👉 Bawat ebike may specific charger
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
+  
+Ex : 12ah 48V / 20ah 48V / 20ah 60V  
+20ah 72V
 
-> And yes, it does attach an image of you selecting a text on Medium instead of just quoting the text. What a mess with blog.
+  
+👉 Huwag maniwala na ang mga charger ay  
+may timer daw siya at mag green siya pag  
+full charge na.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+👉 Huwag mag charge ng 8 oras at pataas.
 
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+👉 Huwag hintayin mag green ang charger  
+para alam mo na full charge na battery
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Worts senario kasi paano kung 7 hours,  
+8 hours, 10 hours, 12 hours  
+and so on, hindi pa nag green charger  
+mo edi dun na pumapasok Yung  
+salitang over charge  
+👉 Bumili ka ng timer para sigurado ka sa  
+oras na pag charge mo.  
+👉 Tamang charge sa battery mo kung  
+low bat na ay nasa 5 oras hangang  
+6 oras lamang  
+👉 Tanong : pwede ba I charge ang ebike  
+namin kahit hinde pa low bat?
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
+Sagot: pwede po.. alamin mo kung ilang  
+bar na sa panel bord mo kung ilang bar  
+na ang natitira( Malalaman mo ung  
+accurate bar pag umaandar ebike mo)
+
+Halimbawa nakita mo 3 bar nalang pwede  
+mo siya charge 2 hours, every bar na kulang  
+equivalent 1 hour charging.
+
+👉 Best tips: dapat ang pag charge ng battery  
+niyo ay nasa 5 oras o 6 na oras lamang  
+kapag low bat na battery mo
+
+👉 Tanong: pwede ba gumamit ng charger  
+kahit hinde akma sa battery ko?
+
+Sagot: Pwede at hindi
+
+Pwede kung mataas ang specs charger  
+sa battery mo.  
+Ex: Battery is 12ah 48V  
+pwedeng gamitin charger ay 20ah 48V  
+pataas kaya lamang fast charger tawag dun
+
+Ano ang fast charger?  
+Pag gumamit ka na mas mataas na  
+charger s specific na battery mo
+
+Tanong: Ilang oras ba pwede I charge  
+pag gumamit na fast charger?
+
+Sagot: 2 oras lamang o 3 oras depende  
+sa ginamit mong fast charger.
