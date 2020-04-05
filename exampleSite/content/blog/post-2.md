@@ -1,29 +1,33 @@
 +++
-title = "Human Gut Microbes Could Make Processed Foods Healthier"
-date = 2020-01-29T16:00:00Z
-author = "Uriah Galang"
-draft = false
-tags = ["microbes", " processed-foods"]
+author = "Darren M. Balbin"
 categories = []
+date = 2020-04-05T03:37:00Z
 description = "this is a meta description"
-image = "images/blog/post-2.jpg"
+image = "images/blog/bloggy.jpg"
 og_type = "article"
+tags = ["microbes", " processed-foods"]
+title = "Why buy Electric bike?"
+
 +++
+#### 1. IT'S FUN!
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+An electric bike is guaranteed to put a smile on your face - every ride!
 
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+#### 2. SAVE MONEY
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Petrol prices may soar, but electric bikes offer a genuine transportation alternative for just pennies per charge. A full charge costs about 10p and will take you up to 56 km. That's the equivalent of 1,500 to 2,000 miles per gallon!  
+Parking costing you an arm and a leg? Ride to work and save hundreds more in parking fees not to mention the cost-savings from less wear and tear on your car. Give up your car altogether and save even more on tax and insurance!
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
+#### 3. CLEAN, GREEN ENERGY
 
-> And yes, it does attach an image of you selecting a text on Medium instead of just quoting the text. What a mess with blog.
+If thoughts of global warming leave you cold, consider this: Compared to a car, moped or motorcycle, an electric bike provides a clean, green, no-petrol transportation alternative.  
+Electric bikes typically consume fuel at an average rate of 100 to 150 watts of electrical energy compared to 15,000 or so for a car.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+#### 4. GET THERE FASTER
 
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Avoid the time delays and frustration of getting caught in traffic congestion. Did you know average rush hour car speed is just 16mph? An electric bike can take advantage of the network of bicycle and multi-purpose paths, giving access to routes that cars and motorcycles cannot reach.  
+The result: a faster door-to-door journey!
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+#### 5. GENUINELY SUSTAINABLE
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
+While there's a lot of talk about sustainability in transportation, an electric bicycle can be made genuinely sustainable. Purchase electricity from a "green" supplier and the bike's fossil fuel consumption will be zero. You can help to "change the world one bike at a time."
