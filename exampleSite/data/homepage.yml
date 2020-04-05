@@ -29,11 +29,11 @@ cta:
     link: products
 material:
   enable: true
-  title: Coming Soon
-  subtitle: Xiaomi Electric Scooter
+  title: Best Selling
+  subtitle: Grab now and avail special discount
   materialItem:
   - title: ''
-    image: images/1.jpg
+    image: images/444.png
     content: ''
   - title: ''
     image: images/33.jpg
