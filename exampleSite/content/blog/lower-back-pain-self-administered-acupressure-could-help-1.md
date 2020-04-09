@@ -17,45 +17,42 @@ sapagkat sensetive ito at may tamang paggamit kaya naman may ilang mga tips para
 👉 Tips how to avoid bloated battery  
 👉 Bawat ebike may specific charger
 
-  
 Ex : 12ah 48V / 20ah 48V / 20ah 60V  
 20ah 72V
 
-  
 👉 Huwag maniwala na ang mga charger ay  
-may timer daw siya at mag green siya pag  
-full charge na.
+may timer at mag green kapag full charge.
 
 👉 Huwag mag charge ng 8 oras at pataas.
 
 👉 Huwag hintayin mag green ang charger  
 para alam mo na full charge na battery
 
-Worts senario kasi paano kung 7 hours,  
-8 hours, 10 hours, 12 hours  
+Paano kung 7 hours, 8 hours, 10 hours, 12 hours  
 and so on, hindi pa nag green charger  
-mo edi dun na pumapasok Yung  
-salitang over charge  
-👉 Bumili ka ng timer para sigurado ka sa  
-oras na pag charge mo.  
-👉 Tamang charge sa battery mo kung  
-low bat na ay nasa 5 oras hangang  
+mo?
+
+ resulta ay overcharge  
+👉 Bumili ng timer para sigurado sa  
+oras na pag charge.  
+👉 Tamang charge sa batterya kung  
+lowbat na ay nasa 5 oras hangang  
 6 oras lamang  
 👉 Tanong : pwede ba I charge ang ebike  
-namin kahit hinde pa low bat?
+namin kahit hinde pa lowbat?
 
 Sagot: pwede po.. alamin mo kung ilang  
-bar na sa panel bord mo kung ilang bar  
+bar na sa panel board mo kung ilang bar  
 na ang natitira( Malalaman mo ung  
-accurate bar pag umaandar ebike mo)
+accurate bar pag umaandar na ebike mo)
 
 Halimbawa nakita mo 3 bar nalang pwede  
 mo siya charge 2 hours, every bar na kulang  
 equivalent 1 hour charging.
 
 👉 Best tips: dapat ang pag charge ng battery  
-niyo ay nasa 5 oras o 6 na oras lamang  
-kapag low bat na battery mo
+ ay nasa 5 oras o 6 na oras lamang  
+kapag lowbat na.
 
 👉 Tanong: pwede ba gumamit ng charger  
 kahit hinde akma sa battery ko?
@@ -70,10 +67,10 @@ pataas kaya lamang fast charger tawag dun
 
 Ano ang fast charger?  
 Pag gumamit ka na mas mataas na  
-charger s specific na battery mo
+charger sa specific na battery mo.
 
 Tanong: Ilang oras ba pwede I charge  
 pag gumamit na fast charger?
 
 Sagot: 2 oras lamang o 3 oras depende  
-sa ginamit mong fast charger.
+sa ginagamit mong fast charger.
