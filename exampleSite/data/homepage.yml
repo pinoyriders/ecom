@@ -6,7 +6,7 @@ banner:
   image: images/Annotation 2020-03-24 164345-1.png
   button:
     enable: true
-    label: PRICE LIST
+    label: click PRICE LIST here
     link: products
   video:
     enable: true
