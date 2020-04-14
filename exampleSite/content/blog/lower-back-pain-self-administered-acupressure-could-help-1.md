@@ -36,13 +36,37 @@ Whatever the reason for overcharging of the device, the end result is the swelli
 * Use a charger whose maximum charging capacity is lower than the battery
 * Using a good quality charger
 
-Opinyun ng pinoy e-biker.
+**Opinyun ng pinoy e-bikers.**
+
+Bakit nag eexpand and cell plates ang battery ng E-bike?
+
+Ang mga cell plate na madalas mag expand ay dahil sa sobrang pag-overcharge ng baterya. Ang baterya ay maaari ring mag expand dahil sa pag-“short” ng mga terminal ng baterya. Ang sitwasyong ito ay nagreresulta sa pag-init ng mga cell plate sa loob ng baterya. Ang lead ng mga cell plate ay may mataas na pagkakataong mag expand pag nainitan.
+
+Ang resulta ay nakakaranas ng matinding pressure sa loob na lumulubog at pinapabagal ito. Ang pamamaga ng baterya ay maaari ring maging sanhi ng malaking pinsala sa mga panloob na sangkap at bahagi.
+
+Paano maiwasan ang pamamaga ng baterya?
+
+Ang overcharging o short-circuiting ng baterya ay ang tanging dahilan para sa pamamaga ng lead acid na baterya. Ang problema ay hindi likas sa baterya mismo. Upang maiwasan ang pamamaga ng baterya kailangan mong harapin ang pinagbabatayan na sanhi ng problema.
+
+Anuman ang dahilan para sa sobrang pag-overcharge ng baterya, ang resulta pamamaga ng baterya. Upang maiwasan ang labis pamamaga ng baterya, kailangan mong gawin ang mga sumusunod na pag-iingat:
+
+1\. Gumamit ng tamang uri ng charger na ganap na katugma sa baterya.
+
+2\. Tiyakin ang tamang polarity kapag kumokonekta sa charger sa baterya
+
+3\. Tiyaking nasa tamang ayus at may “shield” ang mga terminal ng baterya upang maiwasan ang maikling circuit ng baterya
+
+4\. Gumamit ng charger na ang maximum na kapasidad ay mas mababa kaysa sa baterya
+
+Ang mga tip sa itaas ay tutulong sa iyo na protektahan ang iyong baterya mula sa pamamaga at pag eexpand. Ang pag-iingat ay hindi lamang maprotektahan ang iyong baterya mula sa masira ngunit maiiwasan din nito ang banta ng apoy na dulot ng sobrang pag-init ng baterya. Mangyaring huwag mag-atubiling suriin ang aming Gabay sa Pagbili ng Baterya para sa mga tagubilin sa kung paano ingatan iyong mga baterya.
 
 Ang karaniwang nasisira sa parte ng E-bike ay ang kanyang baterya
 
 sapagkat sensetive ito at may tamang paggamit kaya naman may ilang mga tips para maiwasang masira o mas magtagal pa ang Life span ng ating baterya sa E-bike.
 
-👉 Tips how to avoid bloated battery  
+👉 Tips how to avoid bloated battery
+
+  
 👉 Bawat ebike may specific charger
 
 Ex : 12ah 48V / 20ah 48V / 20ah 60V  
